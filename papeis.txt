@@ -12,8 +12,8 @@ Papéis:
 
     Tester: Helder/ Layane
 
-    Gerente de Configuração: Pedro
+    Gerente de Configuração: Pedro Cesar
 
-    SCRUM Master: Pedro
+    SCRUM Master: Pedro Cesar
 
 
