@@ -1,0 +1,19 @@
+Papéis:
+
+    Gerente do projeto: Márcio Ferreira
+
+    Product Owner: Márcio Ferreira
+
+    Analista do Projeto: Márcio Ferreira/Layane
+
+    Arquiteto de Software: Erick
+
+    Engenheiro de desenvolvimento: Erick, Germani, Ricardo, helder
+
+    Tester: Helder/ Layane
+
+    Gerente de Configuração: Pedro
+
+    SCRUM Master: Pedro
+
+
